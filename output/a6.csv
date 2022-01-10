@@ -1,0 +1,22 @@
+,Bikes Rented,Accidents,Name,C
+0,809598,516,January,Time
+1,908112,513,February,Time
+2,1373520,742,March,Time
+3,1614564,975,April,Time
+4,1990116,1123,May,Time
+5,2078052,1154,June,Time
+6,2069688,1204,July,Time
+7,2107164,1239,August,Time
+8,2075946,1248,September,Time
+9,1934112,1125,October,Time
+10,1528986,837,November,Time
+11,1266216,590,December,Time
+12,13547712,9286,"Clear, Few clouds, Partly cloudy, Partly cloudy",Weather
+13,5981148,1462,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",Weather
+14,227214,518,"Snow, Thunderstorm , Rain",Weather
+15,15375399,9391,Male,Gender
+16,4380674,1669,Female,Gender
+17,4380674,1669,Female,Gender
+18,5359859,5857,Young,Age
+19,14060195,4450,Adult,Age
+20,336018,959,Old,Age

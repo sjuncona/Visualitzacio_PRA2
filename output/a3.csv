@@ -1,0 +1,10 @@
+,User,Gender,Age,Freq
+0,Subscriber,Male,Young,97248
+1,Subscriber,Male,Adult,249970
+2,Subscriber,Male,Old,7176
+3,Subscriber,Female,Young,36600
+4,Subscriber,Female,Adult,63126
+5,Subscriber,Female,Old,1246
+6,Customer,Unknown,Young,492
+7,Customer,Unknown,Adult,39310
+8,Customer,Unknown,Old,0

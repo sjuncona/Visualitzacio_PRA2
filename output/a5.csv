@@ -1,0 +1,37 @@
+,Month,Weather,Freq
+0,January,"Clear, Few clouds, Partly cloudy, Partly cloudy",419
+1,January,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",69
+2,January,"Snow, Thunderstorm , Rain",28
+3,February,"Clear, Few clouds, Partly cloudy, Partly cloudy",422
+4,February,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",49
+5,February,"Snow, Thunderstorm , Rain",42
+6,March,"Clear, Few clouds, Partly cloudy, Partly cloudy",600
+7,March,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",106
+8,March,"Snow, Thunderstorm , Rain",36
+9,April,"Clear, Few clouds, Partly cloudy, Partly cloudy",843
+10,April,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",98
+11,April,"Snow, Thunderstorm , Rain",34
+12,May,"Clear, Few clouds, Partly cloudy, Partly cloudy",934
+13,May,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",148
+14,May,"Snow, Thunderstorm , Rain",41
+15,June,"Clear, Few clouds, Partly cloudy, Partly cloudy",1001
+16,June,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",120
+17,June,"Snow, Thunderstorm , Rain",33
+18,July,"Clear, Few clouds, Partly cloudy, Partly cloudy",984
+19,July,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",177
+20,July,"Snow, Thunderstorm , Rain",43
+21,August,"Clear, Few clouds, Partly cloudy, Partly cloudy",999
+22,August,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",193
+23,August,"Snow, Thunderstorm , Rain",47
+24,September,"Clear, Few clouds, Partly cloudy, Partly cloudy",1034
+25,September,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",159
+26,September,"Snow, Thunderstorm , Rain",55
+27,October,"Clear, Few clouds, Partly cloudy, Partly cloudy",940
+28,October,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",141
+29,October,"Snow, Thunderstorm , Rain",44
+30,November,"Clear, Few clouds, Partly cloudy, Partly cloudy",678
+31,November,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",108
+32,November,"Snow, Thunderstorm , Rain",51
+33,December,"Clear, Few clouds, Partly cloudy, Partly cloudy",432
+34,December,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",94
+35,December,"Snow, Thunderstorm , Rain",64
